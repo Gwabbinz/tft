@@ -1,6 +1,12 @@
 {
     "HC999": [
         {
+            "match_id": "EUW1_7244745788",
+            "placement": 7,
+            "most_used_trait": "PitFighter",
+            "timestamp": "27 Dec - 21:24"
+        },
+        {
             "match_id": "EUW1_7244712601",
             "placement": 8,
             "most_used_trait": "TFT13_Sniper",
@@ -174,6 +180,12 @@
         }
     ],
     "Shachomo": [
+        {
+            "match_id": "EUW1_7244757034",
+            "placement": 8,
+            "most_used_trait": "Dominator",
+            "timestamp": "27 Dec - 21:33"
+        },
         {
             "match_id": "EUW1_7244704102",
             "placement": 2,
