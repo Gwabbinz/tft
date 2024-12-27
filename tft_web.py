@@ -149,7 +149,7 @@ if __name__ == "__main__":
                 puuid = account_info["puuid"]
 
                 # Step 2: Fetch match history
-                match_history = get_match_history(puuid, count=10)
+                match_history = get_match_history(puuid, count=3)
                 if match_history:
                     for match_id in match_history:
                         # Check if this game_id already exists for the specific user
