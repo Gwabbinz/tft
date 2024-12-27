@@ -1,0 +1,604 @@
+{
+    "HC999": [
+        {
+            "match_id": "EUW1_7242919680",
+            "placement": 4,
+            "most_used_trait": "Emissary",
+            "timestamp": "26 Dec - 13:28"
+        },
+        {
+            "match_id": "EUW1_7241709647",
+            "placement": 3,
+            "most_used_trait": "Artillerist",
+            "timestamp": "25 Dec - 12:56"
+        },
+        {
+            "match_id": "EUW1_7241687753",
+            "placement": 8,
+            "most_used_trait": "TFT13_Squad",
+            "timestamp": "25 Dec - 12:22"
+        },
+        {
+            "match_id": "EUW1_7238875629",
+            "placement": 8,
+            "most_used_trait": "Academy",
+            "timestamp": "22 Dec - 23:25"
+        },
+        {
+            "match_id": "EUW1_7238806483",
+            "placement": 8,
+            "most_used_trait": "Scrap",
+            "timestamp": "22 Dec - 22:44"
+        },
+        {
+            "match_id": "EUW1_7238724696",
+            "placement": 1,
+            "most_used_trait": "PitFighter",
+            "timestamp": "22 Dec - 22:04"
+        },
+        {
+            "match_id": "EUW1_7238659882",
+            "placement": 4,
+            "most_used_trait": "Scrap",
+            "timestamp": "22 Dec - 21:23"
+        },
+        {
+            "match_id": "EUW1_7238598840",
+            "placement": 4,
+            "most_used_trait": "BlackRose",
+            "timestamp": "22 Dec - 20:47"
+        },
+        {
+            "match_id": "EUW1_7238367893",
+            "placement": 2,
+            "most_used_trait": "Scrap",
+            "timestamp": "22 Dec - 18:24"
+        },
+        {
+            "match_id": "EUW1_7238298349",
+            "placement": 8,
+            "most_used_trait": "Scrap",
+            "timestamp": "22 Dec - 17:41"
+        }
+    ],
+    "FireFreak12": [
+        {
+            "match_id": "EUW1_7240726648",
+            "placement": 7,
+            "most_used_trait": "Sorcerer",
+            "timestamp": "24 Dec - 13:28"
+        },
+        {
+            "match_id": "EUW1_7238875629",
+            "placement": 1,
+            "most_used_trait": "Rebel",
+            "timestamp": "22 Dec - 23:25"
+        },
+        {
+            "match_id": "EUW1_7238806483",
+            "placement": 2,
+            "most_used_trait": "Automata",
+            "timestamp": "22 Dec - 22:44"
+        },
+        {
+            "match_id": "EUW1_7238367893",
+            "placement": 4,
+            "most_used_trait": "Automata",
+            "timestamp": "22 Dec - 18:24"
+        },
+        {
+            "match_id": "EUW1_7238298349",
+            "placement": 4,
+            "most_used_trait": "BlackRose",
+            "timestamp": "22 Dec - 17:41"
+        },
+        {
+            "match_id": "EUW1_7237303664",
+            "placement": 1,
+            "most_used_trait": "Rebel",
+            "timestamp": "21 Dec - 22:26"
+        },
+        {
+            "match_id": "EUW1_7236028262",
+            "placement": 1,
+            "most_used_trait": "TFT13_Crime",
+            "timestamp": "20 Dec - 23:20"
+        },
+        {
+            "match_id": "EUW1_7235958880",
+            "placement": 2,
+            "most_used_trait": "Academy",
+            "timestamp": "20 Dec - 22:43"
+        },
+        {
+            "match_id": "EUW1_7235725797",
+            "placement": 3,
+            "most_used_trait": "Bruiser",
+            "timestamp": "20 Dec - 20:13"
+        },
+        {
+            "match_id": "EUW1_7235438067",
+            "placement": 2,
+            "most_used_trait": "Sentinel",
+            "timestamp": "20 Dec - 16:37"
+        }
+    ],
+    "HiddenShadow": [
+        {
+            "match_id": "EUW1_7241861837",
+            "placement": 1,
+            "most_used_trait": "FormSwapper",
+            "timestamp": "25 Dec - 16:06"
+        },
+        {
+            "match_id": "EUW1_7239576657",
+            "placement": 8,
+            "most_used_trait": "Quickstrikers",
+            "timestamp": "23 Dec - 16:25"
+        },
+        {
+            "match_id": "EUW1_7239467679",
+            "placement": 1,
+            "most_used_trait": "BlackRose",
+            "timestamp": "23 Dec - 14:48"
+        },
+        {
+            "match_id": "EUW1_7237974901",
+            "placement": 1,
+            "most_used_trait": "Visionary",
+            "timestamp": "22 Dec - 13:29"
+        },
+        {
+            "match_id": "EUW1_7235347894",
+            "placement": 1,
+            "most_used_trait": "Quickstrikers",
+            "timestamp": "20 Dec - 15:16"
+        },
+        {
+            "match_id": "EUW1_7235194232",
+            "placement": 4,
+            "most_used_trait": "BlackRose",
+            "timestamp": "20 Dec - 12:39"
+        },
+        {
+            "match_id": "EUW1_7234602274",
+            "placement": 1,
+            "most_used_trait": "PitFighter",
+            "timestamp": "19 Dec - 21:50"
+        }
+    ],
+    "Shachomo": [
+        {
+            "match_id": "EUW1_7243359934",
+            "placement": 5,
+            "most_used_trait": "Scrap",
+            "timestamp": "26 Dec - 20:04"
+        },
+        {
+            "match_id": "EUW1_7242325058",
+            "placement": 1,
+            "most_used_trait": "TFT13_Watcher",
+            "timestamp": "25 Dec - 22:31"
+        },
+        {
+            "match_id": "EUW1_7242277186",
+            "placement": 8,
+            "most_used_trait": "Visionary",
+            "timestamp": "25 Dec - 21:57"
+        },
+        {
+            "match_id": "EUW1_7242045600",
+            "placement": 4,
+            "most_used_trait": "BlackRose",
+            "timestamp": "25 Dec - 18:59"
+        },
+        {
+            "match_id": "EUW1_7241459586",
+            "placement": 8,
+            "most_used_trait": "Automata",
+            "timestamp": "25 Dec - 01:55"
+        },
+        {
+            "match_id": "EUW1_7240197339",
+            "placement": 3,
+            "most_used_trait": "Visionary",
+            "timestamp": "23 Dec - 23:28"
+        },
+        {
+            "match_id": "EUW1_7238298349",
+            "placement": 2,
+            "most_used_trait": "Emissary",
+            "timestamp": "22 Dec - 17:41"
+        },
+        {
+            "match_id": "EUW1_7238058168",
+            "placement": 3,
+            "most_used_trait": "Sorcerer",
+            "timestamp": "22 Dec - 14:49"
+        },
+        {
+            "match_id": "EUW1_7237990798",
+            "placement": 3,
+            "most_used_trait": "Rebel",
+            "timestamp": "22 Dec - 13:45"
+        },
+        {
+            "match_id": "EUW1_7237924274",
+            "placement": 1,
+            "most_used_trait": "Emissary",
+            "timestamp": "22 Dec - 12:43"
+        }
+    ],
+    "DanTheIntern": [
+        {
+            "match_id": "EUW1_7239316212",
+            "placement": 8,
+            "most_used_trait": "Dominator",
+            "timestamp": "23 Dec - 12:04"
+        },
+        {
+            "match_id": "EUW1_7238367893",
+            "placement": 6,
+            "most_used_trait": "Visionary",
+            "timestamp": "22 Dec - 18:24"
+        },
+        {
+            "match_id": "EUW1_7238298349",
+            "placement": 5,
+            "most_used_trait": "Academy",
+            "timestamp": "22 Dec - 17:41"
+        },
+        {
+            "match_id": "EUW1_7237141884",
+            "placement": 4,
+            "most_used_trait": "Emissary",
+            "timestamp": "21 Dec - 20:34"
+        },
+        {
+            "match_id": "EUW1_7236779758",
+            "placement": 6,
+            "most_used_trait": "Sorcerer",
+            "timestamp": "21 Dec - 16:02"
+        },
+        {
+            "match_id": "EUW1_7236722001",
+            "placement": 1,
+            "most_used_trait": "Academy",
+            "timestamp": "21 Dec - 15:21"
+        },
+        {
+            "match_id": "EUW1_7201067391",
+            "placement": 6,
+            "most_used_trait": "PitFighter",
+            "timestamp": "25 Nov - 15:54"
+        },
+        {
+            "match_id": "EUW1_7200225311",
+            "placement": 4,
+            "most_used_trait": "TFT13_Squad",
+            "timestamp": "24 Nov - 22:00"
+        },
+        {
+            "match_id": "EUW1_7199107262",
+            "placement": 2,
+            "most_used_trait": "Dominator",
+            "timestamp": "24 Nov - 11:19"
+        },
+        {
+            "match_id": "EUW1_7196221030",
+            "placement": 7,
+            "most_used_trait": "TFT13_Crime",
+            "timestamp": "22 Nov - 16:07"
+        }
+    ],
+    "Ulle fra campen": [
+        {
+            "match_id": "EUW1_7244062287",
+            "placement": 4,
+            "most_used_trait": "Rebel",
+            "timestamp": "27 Dec - 10:51"
+        },
+        {
+            "match_id": "EUW1_7243646343",
+            "placement": 4,
+            "most_used_trait": "Automata",
+            "timestamp": "26 Dec - 23:17"
+        },
+        {
+            "match_id": "EUW1_7242240297",
+            "placement": 6,
+            "most_used_trait": "BlackRose",
+            "timestamp": "25 Dec - 21:31"
+        },
+        {
+            "match_id": "EUW1_7242128409",
+            "placement": 1,
+            "most_used_trait": "Rebel",
+            "timestamp": "25 Dec - 20:07"
+        },
+        {
+            "match_id": "EUW1_7241777548",
+            "placement": 7,
+            "most_used_trait": "TFT13_Experiment",
+            "timestamp": "25 Dec - 14:26"
+        },
+        {
+            "match_id": "EUW1_7239449122",
+            "placement": 6,
+            "most_used_trait": "PitFighter",
+            "timestamp": "23 Dec - 14:34"
+        },
+        {
+            "match_id": "EUW1_7239330200",
+            "placement": 1,
+            "most_used_trait": "PitFighter",
+            "timestamp": "23 Dec - 12:24"
+        },
+        {
+            "match_id": "EUW1_7238729370",
+            "placement": 3,
+            "most_used_trait": "Visionary",
+            "timestamp": "22 Dec - 22:07"
+        },
+        {
+            "match_id": "EUW1_7232966810",
+            "placement": 8,
+            "most_used_trait": "PitFighter",
+            "timestamp": "18 Dec - 18:23"
+        },
+        {
+            "match_id": "EUW1_7232144587",
+            "placement": 1,
+            "most_used_trait": "TFT13_Experiment",
+            "timestamp": "17 Dec - 22:31"
+        }
+    ],
+    "Numsedask": [
+        {
+            "match_id": "EUW1_7244378262",
+            "placement": 6,
+            "most_used_trait": "Quickstrikers",
+            "timestamp": "27 Dec - 16:49"
+        },
+        {
+            "match_id": "EUW1_7243700295",
+            "placement": 5,
+            "most_used_trait": "Visionary",
+            "timestamp": "26 Dec - 23:47"
+        },
+        {
+            "match_id": "EUW1_7243649206",
+            "placement": 5,
+            "most_used_trait": "PitFighter",
+            "timestamp": "26 Dec - 23:12"
+        },
+        {
+            "match_id": "EUW1_7242913719",
+            "placement": 1,
+            "most_used_trait": "Visionary",
+            "timestamp": "26 Dec - 13:31"
+        },
+        {
+            "match_id": "EUW1_7242244980",
+            "placement": 2,
+            "most_used_trait": "Rebel",
+            "timestamp": "25 Dec - 21:35"
+        },
+        {
+            "match_id": "EUW1_7242103530",
+            "placement": 6,
+            "most_used_trait": "Scrap",
+            "timestamp": "25 Dec - 19:44"
+        },
+        {
+            "match_id": "EUW1_7240918088",
+            "placement": 2,
+            "most_used_trait": "Visionary",
+            "timestamp": "24 Dec - 16:38"
+        },
+        {
+            "match_id": "EUW1_7239585900",
+            "placement": 4,
+            "most_used_trait": "Scrap",
+            "timestamp": "23 Dec - 16:32"
+        },
+        {
+            "match_id": "EUW1_7239253369",
+            "placement": 1,
+            "most_used_trait": "PitFighter",
+            "timestamp": "23 Dec - 10:03"
+        },
+        {
+            "match_id": "EUW1_7238367893",
+            "placement": 3,
+            "most_used_trait": "Bruiser",
+            "timestamp": "22 Dec - 18:24"
+        }
+    ],
+    "Mof fra campen": [
+        {
+            "match_id": "EUW1_7244378262",
+            "placement": 4,
+            "most_used_trait": "Visionary",
+            "timestamp": "27 Dec - 16:49"
+        },
+        {
+            "match_id": "EUW1_7244314803",
+            "placement": 1,
+            "most_used_trait": "Rebel",
+            "timestamp": "27 Dec - 15:54"
+        },
+        {
+            "match_id": "EUW1_7244148156",
+            "placement": 3,
+            "most_used_trait": "Scrap",
+            "timestamp": "27 Dec - 13:00"
+        },
+        {
+            "match_id": "EUW1_7244103020",
+            "placement": 1,
+            "most_used_trait": "PitFighter",
+            "timestamp": "27 Dec - 11:58"
+        },
+        {
+            "match_id": "EUW1_7244042938",
+            "placement": 1,
+            "most_used_trait": "Automata",
+            "timestamp": "27 Dec - 09:52"
+        },
+        {
+            "match_id": "EUW1_7243700295",
+            "placement": 6,
+            "most_used_trait": "Conqueror",
+            "timestamp": "26 Dec - 23:47"
+        },
+        {
+            "match_id": "EUW1_7243649206",
+            "placement": 8,
+            "most_used_trait": "Sorcerer",
+            "timestamp": "26 Dec - 23:12"
+        },
+        {
+            "match_id": "EUW1_7243443062",
+            "placement": 3,
+            "most_used_trait": "PitFighter",
+            "timestamp": "26 Dec - 20:59"
+        },
+        {
+            "match_id": "EUW1_7243394149",
+            "placement": 6,
+            "most_used_trait": "FormSwapper",
+            "timestamp": "26 Dec - 20:33"
+        },
+        {
+            "match_id": "EUW1_7243198590",
+            "placement": 5,
+            "most_used_trait": "Sentinel",
+            "timestamp": "26 Dec - 17:59"
+        }
+    ],
+    "Cg112": [
+        {
+            "match_id": "EUN1_3715973478",
+            "placement": 6,
+            "most_used_trait": "Conqueror",
+            "timestamp": "25 Dec - 12:16"
+        },
+        {
+            "match_id": "EUN1_3715492853",
+            "placement": 4,
+            "most_used_trait": "Ambusher",
+            "timestamp": "24 Dec - 11:45"
+        },
+        {
+            "match_id": "EUN1_3714973337",
+            "placement": 1,
+            "most_used_trait": "FormSwapper",
+            "timestamp": "23 Dec - 14:04"
+        },
+        {
+            "match_id": "EUN1_3714956588",
+            "placement": 5,
+            "most_used_trait": "BlackRose",
+            "timestamp": "23 Dec - 13:31"
+        },
+        {
+            "match_id": "EUN1_3714465643",
+            "placement": 3,
+            "most_used_trait": "Sentinel",
+            "timestamp": "22 Dec - 16:44"
+        },
+        {
+            "match_id": "EUN1_3714024692",
+            "placement": 7,
+            "most_used_trait": "Sorcerer",
+            "timestamp": "21 Dec - 20:32"
+        },
+        {
+            "match_id": "EUN1_3713864044",
+            "placement": 6,
+            "most_used_trait": "Bruiser",
+            "timestamp": "21 Dec - 16:02"
+        },
+        {
+            "match_id": "EUN1_3713844928",
+            "placement": 2,
+            "most_used_trait": "Visionary",
+            "timestamp": "21 Dec - 15:22"
+        },
+        {
+            "match_id": "EUN1_3713411810",
+            "placement": 1,
+            "most_used_trait": "Artillerist",
+            "timestamp": "20 Dec - 19:20"
+        },
+        {
+            "match_id": "EUN1_3713357614",
+            "placement": 1,
+            "most_used_trait": "Warwick",
+            "timestamp": "20 Dec - 17:43"
+        }
+    ],
+    "Smokeman7": [
+        {
+            "match_id": "EUW1_7240726648",
+            "placement": 3,
+            "most_used_trait": "Bruiser",
+            "timestamp": "24 Dec - 13:28"
+        },
+        {
+            "match_id": "EUW1_7240690904",
+            "placement": 3,
+            "most_used_trait": "TFT13_Squad",
+            "timestamp": "24 Dec - 12:51"
+        },
+        {
+            "match_id": "EUW1_7240668406",
+            "placement": 8,
+            "most_used_trait": "Emissary",
+            "timestamp": "24 Dec - 12:31"
+        },
+        {
+            "match_id": "EUW1_7240290161",
+            "placement": 5,
+            "most_used_trait": "Visionary",
+            "timestamp": "24 Dec - 00:20"
+        },
+        {
+            "match_id": "EUW1_7240221325",
+            "placement": 2,
+            "most_used_trait": "Quickstrikers",
+            "timestamp": "23 Dec - 23:43"
+        },
+        {
+            "match_id": "EUW1_7240155515",
+            "placement": 1,
+            "most_used_trait": "Emissary",
+            "timestamp": "23 Dec - 23:01"
+        },
+        {
+            "match_id": "EUW1_7239924402",
+            "placement": 5,
+            "most_used_trait": "Artillerist",
+            "timestamp": "23 Dec - 20:49"
+        },
+        {
+            "match_id": "EUW1_7239759120",
+            "placement": 1,
+            "most_used_trait": "PitFighter",
+            "timestamp": "23 Dec - 18:50"
+        },
+        {
+            "match_id": "EUW1_7239710156",
+            "placement": 6,
+            "most_used_trait": "Conqueror",
+            "timestamp": "23 Dec - 18:12"
+        },
+        {
+            "match_id": "EUW1_7239673725",
+            "placement": 6,
+            "most_used_trait": "Conqueror",
+            "timestamp": "23 Dec - 17:43"
+        }
+    ]
+}
