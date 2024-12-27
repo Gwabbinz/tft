@@ -13,13 +13,13 @@ MATCH_HISTORY_URL = "https://europe.api.riotgames.com/tft/match/v1/matches/by-pu
 MATCH_INFO_URL = "https://europe.api.riotgames.com/tft/match/v1/matches/{matchId}"
 
 
-def save_scores_to_file(scores, filename="Desktop/game-data.json"):
+def save_scores_to_file(scores, filename=".game-data.json"):
     """Save scores to a JSON file."""
     with open(filename, "w") as file:
         json.dump(scores, file, indent=4)
 
 
-def load_scores_from_file(filename="Desktop/game-data.json"):
+def load_scores_from_file(filename="./game-data.json"):
     """Load scores from a JSON file."""
     try:
         with open(filename, "r") as file:
@@ -44,7 +44,7 @@ def get_account_info(game_name, tag_line):
         return None
 
 
-def get_match_history(puuid, count=10):
+def get_match_history(puuid, count=3):
     url = f"{MATCH_HISTORY_URL}?count={count}".format(puuid=puuid)
     headers = {"X-Riot-Token": API_KEY}
     response = requests.get(url, headers=headers)
