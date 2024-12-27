@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <td>${entry.average}</td>
                 <td>${entry.favoriteTrait}</td>
                 <td>${entry.gamesToday} game(s) idag</td>
-                <td>${probabilityMap[entry.player]}% chance of winning</td>
+                <td>${probabilityMap[entry.player]}%</td>
             </tr>`;
             scoreTableBody.innerHTML += row;
         });
