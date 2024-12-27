@@ -29,6 +29,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add scores.json
-          git commit -m "Update scores.json [Automated]" || echo "No changes to commit"
+          git add game-data.json
+          git commit -m "Update game-data.json [Automated]" || echo "No changes to commit"
           git push
