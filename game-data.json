@@ -1,6 +1,12 @@
 {
     "HC999": [
         {
+            "match_id": "EUW1_7245030284",
+            "placement": 1,
+            "most_used_trait": "Ambusher",
+            "timestamp": "28 Dec - 00:21"
+        },
+        {
             "match_id": "EUW1_7244976001",
             "placement": 5,
             "most_used_trait": "Emissary",
@@ -80,6 +86,12 @@
         }
     ],
     "FireFreak12": [
+        {
+            "match_id": "EUW1_7245030284",
+            "placement": 6,
+            "most_used_trait": "TFT13_Sniper",
+            "timestamp": "28 Dec - 00:21"
+        },
         {
             "match_id": "EUW1_7244976001",
             "placement": 6,
