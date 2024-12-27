@@ -175,7 +175,7 @@ if __name__ == "__main__":
                             # Prepare score entry
                             if game_name not in game_ids:
                                 game_ids[game_name] = []
-                                game_ids[game_name].insert(0, {
+                            game_ids[game_name].insert(0, {
                                         "match_id": match_id,
                                         "placement": player_stats["placement"],
                                         "most_used_trait": map_traits(player_stats["most_used_trait"]),
