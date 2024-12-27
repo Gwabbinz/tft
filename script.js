@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         Object.entries(data).forEach(([player, matches]) => {
             // Get last 10 matches (or fewer if not enough games played)
-            const last10Games = matches.slice(10);
+            const last10Games = matches.slice(0, 10);
 
             // Calculate average placement
             const totalPlacement = last10Games.reduce((acc, match) => acc + match.placement, 0);
