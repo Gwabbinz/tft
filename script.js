@@ -47,16 +47,16 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         });
 
-        // Calculate win probabilities based on average placement
-        const inversePlacements = playerAverages.map(player => ({
+        // Exponential scaling of win probabilities
+        const expScores = playerAverages.map(player => ({
             player: player.player,
-            inverse: 1 / player.average  // Inverse of average placement
+            score: Math.exp(-player.average)  // e^(-average)
         }));
 
-        const totalInverse = inversePlacements.reduce((sum, player) => sum + player.inverse, 0);
-        const probabilities = inversePlacements.map(player => ({
+        const totalExpScore = expScores.reduce((sum, player) => sum + player.score, 0);
+        const probabilities = expScores.map(player => ({
             player: player.player,
-            winProbability: ((player.inverse / totalInverse) * 100).toFixed(2)
+            winProbability: ((player.score / totalExpScore) * 100).toFixed(2)
         }));
 
         // Map win probabilities to players
@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <td>${entry.average}</td>
                 <td>${entry.favoriteTrait}</td>
                 <td>${entry.gamesToday} game(s) idag</td>
-                <td>${probabilityMap[entry.player]}%</td>
+                <td>${probabilityMap[entry.player]}% chance of winning</td>
             </tr>`;
             scoreTableBody.innerHTML += row;
         });
