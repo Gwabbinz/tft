@@ -13,7 +13,7 @@ MATCH_HISTORY_URL = "https://europe.api.riotgames.com/tft/match/v1/matches/by-pu
 MATCH_INFO_URL = "https://europe.api.riotgames.com/tft/match/v1/matches/{matchId}"
 
 
-def save_scores_to_file(scores, filename=".game-data.json"):
+def save_scores_to_file(scores, filename="./game-data.json"):
     """Save scores to a JSON file."""
     with open(filename, "w") as file:
         json.dump(scores, file, indent=4)
