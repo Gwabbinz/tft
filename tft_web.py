@@ -159,7 +159,7 @@ if __name__ == "__main__":
 
                                 
                         match_info = get_match_info(match_id)
-                        time.sleep(1)
+                        time.sleep(5)
                         if match_info:
                             player_stats = extract_player_stats(match_info, puuid)
 
