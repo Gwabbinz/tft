@@ -2,7 +2,8 @@ name: Update TFT Scores
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight
+    - cron: '*/30 8-23 * * *'  # Run every 30 minutes from 08:00 to 23:30
+    - cron: '0 0,1 * * *'      # Run at 00:00 and 01:00
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
