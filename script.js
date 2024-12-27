@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         Object.entries(data).forEach(([player, matches]) => {
             // Get last 10 matches (or fewer if not enough games played)
-            const last10Games = matches.slice(0, 10);
+            const last10Games = matches.slice(0, 10);  // Take the top 10 (most recent)
 
             // Calculate average placement
             const totalPlacement = last10Games.reduce((acc, match) => acc + match.placement, 0);
@@ -47,10 +47,28 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         });
 
-        // Sort players by average (ascending)
+        // Calculate win probabilities based on average placement
+        const inversePlacements = playerAverages.map(player => ({
+            player: player.player,
+            inverse: 1 / player.average  // Inverse of average placement
+        }));
+
+        const totalInverse = inversePlacements.reduce((sum, player) => sum + player.inverse, 0);
+        const probabilities = inversePlacements.map(player => ({
+            player: player.player,
+            winProbability: ((player.inverse / totalInverse) * 100).toFixed(2)
+        }));
+
+        // Map win probabilities to players
+        const probabilityMap = {};
+        probabilities.forEach(entry => {
+            probabilityMap[entry.player] = entry.winProbability;
+        });
+
+        // Sort players by average placement (ascending)
         playerAverages.sort((a, b) => a.average - b.average);
 
-        // Display averages
+        // Display averages with win probability in the table
         scoreTableBody.innerHTML = '';  // Clear previous rows
         playerAverages.forEach(entry => {
             const row = `<tr>
@@ -58,6 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <td>${entry.average}</td>
                 <td>${entry.favoriteTrait}</td>
                 <td>${entry.gamesToday} game(s) idag</td>
+                <td>${probabilityMap[entry.player]}%</td>
             </tr>`;
             scoreTableBody.innerHTML += row;
         });
