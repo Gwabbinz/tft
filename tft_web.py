@@ -186,4 +186,4 @@ if __name__ == "__main__":
                             save_scores_to_file(game_ids)
 
                             print(f"Updated scores for {game_name}: {game_ids[game_name]}")
-        time.sleep(120)
+        break
