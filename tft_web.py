@@ -124,7 +124,7 @@ def map_traits(riot_trait):
 
 if __name__ == "__main__":
     accounts = [
-        {"game_name": "HC999", "tag_line": "EUW"},
+    {"game_name": "HC999", "tag_line": "EUW"},
     {"game_name": "FireFreak12", "tag_line": "EUW"},
     {"game_name": "HiddenShadow", "tag_line": "Hello"},
     {"game_name": "Shachomo", "tag_line": "EUW"},
