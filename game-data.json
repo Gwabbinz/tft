@@ -1,6 +1,12 @@
 {
     "HC999": [
         {
+            "match_id": "EUW1_7244712601",
+            "placement": 8,
+            "most_used_trait": "TFT13_Sniper",
+            "timestamp": "27 Dec - 20:55"
+        },
+        {
             "match_id": "EUW1_7242919680",
             "placement": 4,
             "most_used_trait": "Emissary",
@@ -56,6 +62,12 @@
         }
     ],
     "FireFreak12": [
+        {
+            "match_id": "EUW1_7244601163",
+            "placement": 6,
+            "most_used_trait": "TFT13_Squad",
+            "timestamp": "27 Dec - 19:44"
+        },
         {
             "match_id": "EUW1_7240726648",
             "placement": 7,
@@ -162,6 +174,12 @@
         }
     ],
     "Shachomo": [
+        {
+            "match_id": "EUW1_7244704102",
+            "placement": 2,
+            "most_used_trait": "Emissary",
+            "timestamp": "27 Dec - 20:53"
+        },
         {
             "match_id": "EUW1_7243359934",
             "placement": 5,
