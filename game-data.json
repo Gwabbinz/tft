@@ -1,6 +1,12 @@
 {
     "HC999": [
         {
+            "match_id": "EUW1_7244790139",
+            "placement": 1,
+            "most_used_trait": "Sentinel",
+            "timestamp": "27 Dec - 21:57"
+        },
+        {
             "match_id": "EUW1_7244745788",
             "placement": 7,
             "most_used_trait": "PitFighter",
@@ -136,6 +142,12 @@
         }
     ],
     "HiddenShadow": [
+        {
+            "match_id": "EUW1_7244770273",
+            "placement": 2,
+            "most_used_trait": "Quickstrikers",
+            "timestamp": "27 Dec - 21:45"
+        },
         {
             "match_id": "EUW1_7241861837",
             "placement": 1,
@@ -440,6 +452,12 @@
         }
     ],
     "Mof fra campen": [
+        {
+            "match_id": "EUW1_7244777794",
+            "placement": 5,
+            "most_used_trait": "Dominator",
+            "timestamp": "27 Dec - 21:46"
+        },
         {
             "match_id": "EUW1_7244684693",
             "placement": 6,
