@@ -1,6 +1,12 @@
 {
     "HC999": [
         {
+            "match_id": "EUW1_7244976001",
+            "placement": 5,
+            "most_used_trait": "Emissary",
+            "timestamp": "27 Dec - 23:46"
+        },
+        {
             "match_id": "EUW1_7244790139",
             "placement": 1,
             "most_used_trait": "Sentinel",
@@ -75,6 +81,12 @@
     ],
     "FireFreak12": [
         {
+            "match_id": "EUW1_7244976001",
+            "placement": 6,
+            "most_used_trait": "Visionary",
+            "timestamp": "27 Dec - 23:46"
+        },
+        {
             "match_id": "EUW1_7244896656",
             "placement": 4,
             "most_used_trait": "TFT13_Watcher",
@@ -148,6 +160,12 @@
         }
     ],
     "HiddenShadow": [
+        {
+            "match_id": "EUW1_7244982270",
+            "placement": 8,
+            "most_used_trait": "Sentinel",
+            "timestamp": "27 Dec - 23:51"
+        },
         {
             "match_id": "EUW1_7244770273",
             "placement": 2,
