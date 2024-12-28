@@ -47,10 +47,11 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         });
 
-        // Exponential scaling of win probabilities
+        // Exponential scaling with a softer curve (adjust 'k' to tweak sensitivity)
+        const k = 0.5;  // Reduce harshness (lower = smoother)
         const expScores = playerAverages.map(player => ({
             player: player.player,
-            score: Math.exp(-player.average)  // e^(-average)
+            score: Math.exp(-k * player.average)  // e^(-k * average)
         }));
 
         const totalExpScore = expScores.reduce((sum, player) => sum + player.score, 0);
@@ -76,7 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <td>${entry.average}</td>
                 <td>${entry.favoriteTrait}</td>
                 <td>${entry.gamesToday} game(s) idag</td>
-                <td>${probabilityMap[entry.player]}%</td>
+                <td>${probabilityMap[entry.player]}% chance of winning</td>
             </tr>`;
             scoreTableBody.innerHTML += row;
         });
