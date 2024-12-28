@@ -1,6 +1,12 @@
 {
     "HC999": [
         {
+            "match_id": "EUW1_7245440863",
+            "placement": 6,
+            "most_used_trait": "Conqueror",
+            "timestamp": "28 Dec - 12:54"
+        },
+        {
             "match_id": "EUW1_7245397467",
             "placement": 1,
             "most_used_trait": "Visionary",
@@ -388,6 +394,12 @@
         }
     ],
     "Ulle fra campen": [
+        {
+            "match_id": "EUW1_7245427723",
+            "placement": 3,
+            "most_used_trait": "Emissary",
+            "timestamp": "28 Dec - 12:36"
+        },
         {
             "match_id": "EUW1_7244062287",
             "placement": 4,
