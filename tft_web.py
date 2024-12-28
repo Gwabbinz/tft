@@ -5,7 +5,7 @@ import json
 from datetime import datetime, timezone
 
 # Min API key
-API_KEY = "RGAPI-0ef808f7-db8d-4671-a04b-d5c8950e10b3"
+API_KEY = "RGAPI-085c6021-c556-4721-8394-427fad503e56"
 
 # URLs
 ACCOUNT_URL = "https://europe.api.riotgames.com/riot/account/v1/accounts/by-riot-id/{gameName}/{tagLine}"
