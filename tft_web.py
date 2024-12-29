@@ -44,7 +44,7 @@ def get_account_info(game_name, tag_line):
         return None
 
 
-def get_match_history(puuid, count=3):
+def get_match_history(puuid, count=10):
     url = f"{MATCH_HISTORY_URL}?count={count}".format(puuid=puuid)
     headers = {"X-Riot-Token": API_KEY}
     response = requests.get(url, headers=headers)
