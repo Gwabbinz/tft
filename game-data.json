@@ -1,6 +1,12 @@
 {
     "HC999": [
         {
+            "match_id": "EUW1_7246943639",
+            "placement": 5,
+            "most_used_trait": "BlackRose",
+            "timestamp": "29 Dec - 15:43"
+        },
+        {
             "match_id": "EUW1_7246896637",
             "placement": 6,
             "most_used_trait": "BlackRose",
@@ -123,6 +129,12 @@
     ],
     "FireFreak12": [
         {
+            "match_id": "EUW1_7246943639",
+            "placement": 1,
+            "most_used_trait": "Rebel",
+            "timestamp": "29 Dec - 15:43"
+        },
+        {
             "match_id": "EUW1_7246896637",
             "placement": 7,
             "most_used_trait": "Conqueror",
@@ -227,6 +239,12 @@
     ],
     "HiddenShadow": [
         {
+            "match_id": "EUW1_7246943639",
+            "placement": 3,
+            "most_used_trait": "Ambusher",
+            "timestamp": "29 Dec - 15:43"
+        },
+        {
             "match_id": "EUW1_7246896637",
             "placement": 4,
             "most_used_trait": "BlackRose",
@@ -294,6 +312,12 @@
         }
     ],
     "Shachomo": [
+        {
+            "match_id": "EUW1_7246943639",
+            "placement": 7,
+            "most_used_trait": "Bruiser",
+            "timestamp": "29 Dec - 15:43"
+        },
         {
             "match_id": "EUW1_7246896637",
             "placement": 3,
@@ -405,6 +429,12 @@
     ],
     "DanTheIntern": [
         {
+            "match_id": "EUW1_7246943639",
+            "placement": 2,
+            "most_used_trait": "Visionary",
+            "timestamp": "29 Dec - 15:43"
+        },
+        {
             "match_id": "EUW1_7246896637",
             "placement": 5,
             "most_used_trait": "TFT13_Crime",
@@ -478,6 +508,12 @@
         }
     ],
     "Ulle fra campen": [
+        {
+            "match_id": "EUW1_7246943639",
+            "placement": 6,
+            "most_used_trait": "Emissary",
+            "timestamp": "29 Dec - 15:43"
+        },
         {
             "match_id": "EUW1_7246896637",
             "placement": 2,
@@ -786,6 +822,12 @@
         }
     ],
     "Smokeman7": [
+        {
+            "match_id": "EUW1_7246943639",
+            "placement": 4,
+            "most_used_trait": "PitFighter",
+            "timestamp": "29 Dec - 15:43"
+        },
         {
             "match_id": "EUW1_7246896637",
             "placement": 8,
