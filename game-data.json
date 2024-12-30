@@ -331,6 +331,12 @@
     ],
     "Shachomo": [
         {
+            "match_id": "EUW1_7248055159",
+            "placement": 2,
+            "most_used_trait": "TFT13_Watcher",
+            "timestamp": "30 Dec - 10:30"
+        },
+        {
             "match_id": "EUW1_7247626295",
             "placement": 1,
             "most_used_trait": "Conqueror",
