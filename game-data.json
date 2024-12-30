@@ -331,6 +331,12 @@
     ],
     "Shachomo": [
         {
+            "match_id": "EUW1_7248134135",
+            "placement": 1,
+            "most_used_trait": "Conqueror",
+            "timestamp": "30 Dec - 12:45"
+        },
+        {
             "match_id": "EUW1_7248077262",
             "placement": 8,
             "most_used_trait": "BlackRose",
@@ -814,6 +820,12 @@
         }
     ],
     "Cg112": [
+        {
+            "match_id": "EUN1_3718804448",
+            "placement": 2,
+            "most_used_trait": "Bruiser",
+            "timestamp": "30 Dec - 13:01"
+        },
         {
             "match_id": "EUN1_3717683427",
             "placement": 7,
